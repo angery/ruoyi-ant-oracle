@@ -19,7 +19,6 @@
 - [Github](https://github.com/angery/ruoyi-ant-oracle)
 - [Gitee](https://gitee.com/angery/ruoyi-ant-oracle)
 
-
 Overview
 ----
 
